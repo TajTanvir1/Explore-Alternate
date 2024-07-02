@@ -1,0 +1,87 @@
+[
+  {
+    "productImage": "https://i.ibb.co/pRpjg1f/Mobile.png",
+    "queryTitle": "Looking for a durable smartphone under $500",
+    "productName": "TechGadget X",
+    "brandName": "TechGear",
+    "alternationReason": "My current phone is slow and outdated.",
+    "datePosted": "2024-05-10",
+    "boycottingReasonDetails": "",
+    "queryUserEmail" : "tanvirah1223@gmail.com",
+    "queryUserName" : "John Doe",
+    "queryUserImage" : "https://i.ibb.co/NxmZD7d/PP3.png",
+    "dateTime": "2024-05-10",
+    "recommendationCount": 0
+  },
+  {
+    "productImage": "https://i.ibb.co/h90CYqj/Laptop.png",
+    "queryTitle": "Recommend a lightweight laptop for travel",
+    "productName": "TravelBook Pro",
+    "brandName": "TechLabs",
+    "alternationReason": "Need a portable laptop with long battery life.",
+    "datePosted": "2024-05-09",
+    "boycottingReasonDetails": "",
+    "queryUserEmail" : "tanvirah1223@gmail.com",
+    "queryUserName" : "Alice Smith",
+    "queryUserImage" : "https://i.ibb.co/2WZwjw7/PP1.png",
+    "dateTime": "2024-05-09",
+    "recommendationCount": 0
+  },
+  {
+    "productImage": "https://i.ibb.co/fvXztBL/Keyboard.png",
+    "queryTitle": "Recommend a mechanical keyboard for gaming",
+    "productName": "GamerTech KB-100",
+    "brandName": "GamerTech",
+    "alternationReason": "Looking for a keyboard with tactile feedback and customizable keys.",
+    "datePosted": "2024-05-08",
+    "boycottingReasonDetails": "",
+    "queryUserEmail" : "tanvirah1223@gmail.com",
+    "queryUserName" : "Emily Johnson",
+    "queryUserImage" : "https://i.ibb.co/ZhXSfcT/PP2.png",
+    "dateTime": "2024-05-08",
+    "recommendationCount": 0
+  },
+  {
+    "productImage": "https://i.ibb.co/sVBB5RY/Monitor.png",
+    "queryTitle": "Recommend a good Monitor for gaming",
+    "productName": "OfficeView 22",
+    "brandName": "TechWorks",
+    "alternationReason": "Need a monitor with good color accuracy and adjustable stand.",
+    "datePosted": "2024-05-07",
+    "boycottingReasonDetails": "",
+    "queryUserEmail" : "tanvirah1223@gmail.com",
+    "queryUserName" : "Michael Brown",
+    "queryUserImage" : "https://i.ibb.co/z68mqMH/PP4.png",
+    "dateTime": "2024-05-07",
+    "recommendationCount": 0
+  },
+  {
+    "productImage": "https://i.ibb.co/6JdJLQQ/Headphones.png",
+    "queryTitle": "Recommendations for noise-canceling headphones",
+    "productName": "QuietZone Pro",
+    "brandName": "AudioBliss",
+    "alternationReason": "Need headphones for concentration in a noisy environment.",
+    "datePosted": "2024-05-06",
+    "boycottingReasonDetails": "",
+    "queryUserEmail" : "tanvirah1223@gmail.com",
+    "queryUserName" : "Sophia Wilson",
+    "queryUserImage" : "https://i.ibb.co/ZJC1W5h/PP6.png",
+    "dateTime": "2024-05-06",
+    "recommendationCount": 0
+  },
+  {
+    "productImage": "https://i.ibb.co/SNhnjG2/Tab.png",
+    "queryTitle": "Looking for a lightweight tablet for reading",
+    "productName": "ReaderPad Lite",
+    "brandName": "TechRead",
+    "alternationReason": "Need a tablet with long battery life and comfortable grip.",
+    "datePosted": "2024-05-05",
+    "boycottingReasonDetails": "",
+    "queryUserEmail" : "mrahamedtanvir825@gmail.com",
+    "queryUserName" : "David Lee",
+    "queryUserImage" : "https://i.ibb.co/ChDmBWm/PP5.png",
+    "dateTime": "2024-05-05",
+    "recommendationCount": 0
+  }
+]
+
